@@ -1,0 +1,196 @@
+{
+  "best": {
+    "combo": {
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true,
+      "lr": 0.01,
+      "weight_decay": 0.005,
+      "dropout": 0.2,
+      "total_hidden": 600
+    },
+    "mean": 0.5597777962684631,
+    "std": 0.025307006384918562,
+    "K": 1,
+    "use_structural": true,
+    "include_sq": true
+  },
+  "all": [
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.4,
+        "total_hidden": 200
+      },
+      "mean": 0.5453333457310995,
+      "std": 0.02965147266876081,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": false,
+        "lr": 0.003,
+        "weight_decay": 0.005,
+        "dropout": 0.4,
+        "total_hidden": 600
+      },
+      "mean": 0.5562222421169281,
+      "std": 0.024566361289148093,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": false
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.5435555656750997,
+      "std": 0.029534663069791557,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.003,
+        "weight_decay": 0.001,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.5475555717945099,
+      "std": 0.026521825000238135,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.003,
+        "weight_decay": 0.001,
+        "dropout": 0.2,
+        "total_hidden": 200
+      },
+      "mean": 0.5428889095783234,
+      "std": 0.025839960996150556,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": false,
+        "lr": 0.01,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 600
+      },
+      "mean": 0.557111128171285,
+      "std": 0.022576073770976837,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": false
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.01,
+        "weight_decay": 0.001,
+        "dropout": 0.4,
+        "total_hidden": 600
+      },
+      "mean": 0.5535555720329284,
+      "std": 0.026969576643793968,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.2,
+        "total_hidden": 600
+      },
+      "mean": 0.5468889057636261,
+      "std": 0.026674991945903923,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": false,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.5475555658340454,
+      "std": 0.029045728796988707,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": false
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.003,
+        "weight_decay": 0.001,
+        "dropout": 0.2,
+        "total_hidden": 400
+      },
+      "mean": 0.548888905843099,
+      "std": 0.025434491231066135,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.01,
+        "weight_decay": 0.005,
+        "dropout": 0.2,
+        "total_hidden": 600
+      },
+      "mean": 0.5597777962684631,
+      "std": 0.025307006384918562,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    }
+  ]
+}

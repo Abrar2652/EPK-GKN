@@ -1,0 +1,92 @@
+[
+  {
+    "dataset": "MUTAG",
+    "num_graphs": 188,
+    "num_classes": 2,
+    "feat_dim": 255,
+    "d_enr": 17,
+    "n_path_lengths": 5,
+    "total_params": 262838,
+    "params_breakdown": {
+      "encoders": 34986,
+      "head": 227852,
+      "other": 0
+    },
+    "feature_memory_bytes": 191760,
+    "forward_flops_per_sample": 522972,
+    "samples_per_sec": 165275.44581848668,
+    "fwd_ms_per_batch": 1.1374950408935547
+  },
+  {
+    "dataset": "ENZYMES",
+    "num_graphs": 600,
+    "num_classes": 6,
+    "feat_dim": 33345,
+    "d_enr": 45,
+    "n_path_lengths": 38,
+    "total_params": 1413030,
+    "params_breakdown": {
+      "encoders": 1067040,
+      "head": 345990,
+      "other": 0
+    },
+    "feature_memory_bytes": 80028000,
+    "forward_flops_per_sample": 2823744,
+    "samples_per_sec": 341259.27533087437,
+    "fwd_ms_per_batch": 1.7581939697265625
+  },
+  {
+    "dataset": "IMDB-BINARY",
+    "num_graphs": 1000,
+    "num_classes": 2,
+    "feat_dim": 798,
+    "d_enr": 133,
+    "n_path_lengths": 3,
+    "total_params": 46722,
+    "params_breakdown": {
+      "encoders": 25536,
+      "head": 21186,
+      "other": 0
+    },
+    "feature_memory_bytes": 3192000,
+    "forward_flops_per_sample": 92288,
+    "samples_per_sec": 2602571.357656987,
+    "fwd_ms_per_batch": 0.3842353820800781
+  },
+  {
+    "dataset": "PROTEINS",
+    "num_graphs": 1113,
+    "num_classes": 2,
+    "feat_dim": 5115,
+    "d_enr": 11,
+    "n_path_lengths": 30,
+    "total_params": 443618,
+    "params_breakdown": {
+      "encoders": 163680,
+      "head": 279938,
+      "other": 0
+    },
+    "feature_memory_bytes": 22771980,
+    "forward_flops_per_sample": 884928,
+    "samples_per_sec": 845852.5732922631,
+    "fwd_ms_per_batch": 1.3158321380615234
+  },
+  {
+    "dataset": "NCI1",
+    "num_graphs": 4110,
+    "num_classes": 2,
+    "feat_dim": 16170,
+    "d_enr": 77,
+    "n_path_lengths": 20,
+    "total_params": 715458,
+    "params_breakdown": {
+      "encoders": 517440,
+      "head": 198018,
+      "other": 0
+    },
+    "feature_memory_bytes": 265834800,
+    "forward_flops_per_sample": 1428608,
+    "samples_per_sec": 3909952.4688697862,
+    "fwd_ms_per_batch": 1.051163673400879
+  }
+]

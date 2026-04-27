@@ -1,0 +1,130 @@
+{
+  "dataset": "IMDB-BINARY",
+  "results": [
+    {
+      "label": "base",
+      "d_enr": 65,
+      "mean": 0.7576666494210561,
+      "std": 0.025778967567394912,
+      "time": 64.75081062316895,
+      "K": 0,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+Ah X",
+      "d_enr": 130,
+      "mean": 0.7619999786218006,
+      "std": 0.024549265927929675,
+      "time": 64.30372595787048,
+      "K": 1,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+Ah2 X",
+      "d_enr": 195,
+      "mean": 0.7629999816417694,
+      "std": 0.027016455301294505,
+      "time": 58.94838237762451,
+      "K": 2,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+Ah3 X",
+      "d_enr": 260,
+      "mean": 0.7656666477521261,
+      "std": 0.02586502843999767,
+      "time": 60.655707120895386,
+      "K": 3,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+deg",
+      "d_enr": 66,
+      "mean": 0.7546666502952575,
+      "std": 0.02879813911422061,
+      "time": 61.637245893478394,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "+core",
+      "d_enr": 66,
+      "mean": 0.7549999852975209,
+      "std": 0.025873616072524655,
+      "time": 60.13381624221802,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "label": "+clust",
+      "d_enr": 66,
+      "mean": 0.7536666492621105,
+      "std": 0.028065392326980357,
+      "time": 62.245190382003784,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "label": "+all-struct",
+      "d_enr": 68,
+      "mean": 0.7546666502952576,
+      "std": 0.021302057320005577,
+      "time": 59.90734672546387,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "label": "+sq",
+      "d_enr": 130,
+      "mean": 0.7586666504542033,
+      "std": 0.02441310270683203,
+      "time": 60.060497760772705,
+      "K": 0,
+      "use_structural": false,
+      "include_sq": true
+    },
+    {
+      "label": "full",
+      "d_enr": 263,
+      "mean": 0.7639999767144521,
+      "std": 0.023466282147725132,
+      "time": 59.10483431816101,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true,
+      "struct_mask": [
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

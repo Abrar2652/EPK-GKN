@@ -1,0 +1,40 @@
+{
+  "COLLAB": {
+    "best_label": "linearK2+struct (hsp-train)",
+    "best_mean": 0.823266710837682,
+    "best_std": 0.008755697699495125,
+    "hsp_gkn_paper": 80.1,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.802400036652883,
+        "std": 0.008779774125058934
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.8230000376701355,
+        "std": 0.009400951351115357
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.823266710837682,
+        "std": 0.008755697699495125
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.8184000372886657,
+        "std": 0.01150922165890094
+      },
+      {
+        "label": "linearK1+struct+attn",
+        "mean": 0.8076667090257009,
+        "std": 0.013003411321066308
+      },
+      {
+        "label": "mlpK1+struct+attn",
+        "mean": 0.8103333751360575,
+        "std": 0.00982174611350303
+      }
+    ]
+  }
+}

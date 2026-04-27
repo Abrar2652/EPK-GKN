@@ -1,0 +1,35 @@
+{
+  "REDDIT-BINARY": {
+    "best_label": "linearK2+struct+sq (hsp-train)",
+    "best_mean": 0.9436666587988535,
+    "best_std": 0.008326659317937525,
+    "hsp_gkn_paper": 91.7,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.9179999709129334,
+        "std": 0.01144552848650497
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.940333326657613,
+        "std": 0.008259670754648637
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.9431666612625123,
+        "std": 0.008348311896000563
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.9424999952316284,
+        "std": 0.008036367970075757
+      },
+      {
+        "label": "linearK2+struct+sq (hsp-train)",
+        "mean": 0.9436666587988535,
+        "std": 0.008326659317937525
+      }
+    ]
+  }
+}

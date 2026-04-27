@@ -1,0 +1,36 @@
+{
+  "best": {
+    "combo": {
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true,
+      "lr": 0.01,
+      "weight_decay": 0.005,
+      "dropout": 0.3,
+      "total_hidden": 200
+    },
+    "mean": 0.9266666571299235,
+    "std": 0.032855583029624554,
+    "K": 1,
+    "use_structural": true,
+    "include_sq": true
+  },
+  "all": [
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.01,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.9266666571299235,
+      "std": 0.032855583029624554,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    }
+  ]
+}

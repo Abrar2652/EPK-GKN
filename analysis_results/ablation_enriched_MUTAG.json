@@ -1,0 +1,130 @@
+{
+  "dataset": "MUTAG",
+  "results": [
+    {
+      "label": "base",
+      "d_enr": 7,
+      "mean": 0.9378167708714804,
+      "std": 0.044617244886704994,
+      "time": 75.17949652671814,
+      "K": 0,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+Ah X",
+      "d_enr": 14,
+      "mean": 0.928947369257609,
+      "std": 0.05061184054721939,
+      "time": 72.1154510974884,
+      "K": 1,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+Ah2 X",
+      "d_enr": 21,
+      "mean": 0.9343079944451651,
+      "std": 0.04644984139868171,
+      "time": 73.66383409500122,
+      "K": 2,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+Ah3 X",
+      "d_enr": 28,
+      "mean": 0.9379142383734385,
+      "std": 0.035678512161511626,
+      "time": 71.55125999450684,
+      "K": 3,
+      "use_structural": false,
+      "include_sq": false
+    },
+    {
+      "label": "+deg",
+      "d_enr": 8,
+      "mean": 0.9163742740948996,
+      "std": 0.03278624040159106,
+      "time": 70.24000787734985,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "+core",
+      "d_enr": 8,
+      "mean": 0.9396686275800068,
+      "std": 0.03389922420341632,
+      "time": 71.42610883712769,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "label": "+clust",
+      "d_enr": 8,
+      "mean": 0.9326510767141978,
+      "std": 0.041599672306537154,
+      "time": 72.53750252723694,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "label": "+all-struct",
+      "d_enr": 10,
+      "mean": 0.9285575151443479,
+      "std": 0.03229064867818989,
+      "time": 70.82897186279297,
+      "K": 0,
+      "use_structural": true,
+      "include_sq": false,
+      "struct_mask": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "label": "+sq",
+      "d_enr": 14,
+      "mean": 0.9289473712444305,
+      "std": 0.05181383057804151,
+      "time": 69.14632678031921,
+      "K": 0,
+      "use_structural": false,
+      "include_sq": true
+    },
+    {
+      "label": "full",
+      "d_enr": 31,
+      "mean": 0.9323586841424305,
+      "std": 0.03594153848077073,
+      "time": 76.67339992523193,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true,
+      "struct_mask": [
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

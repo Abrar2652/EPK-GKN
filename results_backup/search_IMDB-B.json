@@ -1,0 +1,180 @@
+{
+  "best": {
+    "combo": {
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true,
+      "lr": 0.003,
+      "weight_decay": 0.001,
+      "dropout": 0.2,
+      "total_hidden": 400
+    },
+    "mean": 0.7756666421890259,
+    "std": 0.024497164715742818,
+    "K": 2,
+    "use_structural": true,
+    "include_sq": true
+  },
+  "all": [
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.4,
+        "total_hidden": 200
+      },
+      "mean": 0.7689999798933665,
+      "std": 0.023807088739380092,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": false,
+        "lr": 0.003,
+        "weight_decay": 0.005,
+        "dropout": 0.4,
+        "total_hidden": 600
+      },
+      "mean": 0.7716666499773661,
+      "std": 0.024821580326612126,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": false
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.7696666479110719,
+      "std": 0.02419595506971948,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.003,
+        "weight_decay": 0.001,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.7749999801317851,
+      "std": 0.02404856575892678,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.003,
+        "weight_decay": 0.001,
+        "dropout": 0.2,
+        "total_hidden": 200
+      },
+      "mean": 0.7743333101272583,
+      "std": 0.02160503988484996,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": false,
+        "lr": 0.01,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 600
+      },
+      "mean": 0.7683333098888397,
+      "std": 0.023534837880146018,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": false
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.01,
+        "weight_decay": 0.001,
+        "dropout": 0.4,
+        "total_hidden": 600
+      },
+      "mean": 0.7703333159287771,
+      "std": 0.028223312575160142,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.2,
+        "total_hidden": 600
+      },
+      "mean": 0.7729999780654907,
+      "std": 0.023449709448231337,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    },
+    {
+      "combo": {
+        "K": 1,
+        "use_structural": true,
+        "include_sq": false,
+        "lr": 0.001,
+        "weight_decay": 0.005,
+        "dropout": 0.3,
+        "total_hidden": 200
+      },
+      "mean": 0.7703333139419556,
+      "std": 0.022233600692632628,
+      "K": 1,
+      "use_structural": true,
+      "include_sq": false
+    },
+    {
+      "combo": {
+        "K": 2,
+        "use_structural": true,
+        "include_sq": true,
+        "lr": 0.003,
+        "weight_decay": 0.001,
+        "dropout": 0.2,
+        "total_hidden": 400
+      },
+      "mean": 0.7756666421890259,
+      "std": 0.024497164715742818,
+      "K": 2,
+      "use_structural": true,
+      "include_sq": true
+    }
+  ]
+}

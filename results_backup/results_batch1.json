@@ -1,0 +1,116 @@
+{
+  "MUTAG": {
+    "best_label": "linearK2+struct+sq (hsp-train)",
+    "best_mean": 0.9680312017599741,
+    "best_std": 0.026387157702575798,
+    "hsp_gkn_paper": 97.5,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.9502924084663391,
+        "std": 0.039163827097398136
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.9646198987960816,
+        "std": 0.021022141700059407
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.958966875076294,
+        "std": 0.023279656488620824
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.9663742820421855,
+        "std": 0.021694637334397797
+      },
+      {
+        "label": "linearK2+struct+sq (hsp-train)",
+        "mean": 0.9680312017599741,
+        "std": 0.026387157702575798
+      },
+      {
+        "label": "linearK1+struct+attn",
+        "mean": 0.9146198888619741,
+        "std": 0.04346410792341153
+      }
+    ]
+  },
+  "PTC_MR": {
+    "best_label": "linearK1+struct (hsp-train)",
+    "best_mean": 0.7352661172548929,
+    "best_std": 0.05017110023931422,
+    "hsp_gkn_paper": 76.3,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.723837544520696,
+        "std": 0.057854960690527896
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.7352661172548929,
+        "std": 0.05017110023931422
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.7265546262264252,
+        "std": 0.053542859362155
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.7326610664526622,
+        "std": 0.04250328534625648
+      },
+      {
+        "label": "linearK2+struct+sq (hsp-train)",
+        "mean": 0.7303641478220622,
+        "std": 0.05242156226082422
+      },
+      {
+        "label": "linearK1+struct+attn",
+        "mean": 0.7122689187526703,
+        "std": 0.0359139882905414
+      }
+    ]
+  },
+  "BZR": {
+    "best_label": "linearK2+struct (hsp-train)",
+    "best_mean": 0.9250609715779621,
+    "best_std": 0.030238547042226685,
+    "hsp_gkn_paper": 93.4,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.9143292625745139,
+        "std": 0.03246733194172205
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.9217276334762573,
+        "std": 0.036552201888936604
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.9250609715779621,
+        "std": 0.030238547042226685
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.9192073126633961,
+        "std": 0.037297072195565315
+      },
+      {
+        "label": "linearK2+struct+sq (hsp-train)",
+        "mean": 0.9200406471888225,
+        "std": 0.03496291103752758
+      },
+      {
+        "label": "linearK1+struct+attn",
+        "mean": 0.9126625994841258,
+        "std": 0.02204904890006688
+      }
+    ]
+  }
+}

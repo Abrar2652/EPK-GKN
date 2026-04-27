@@ -1,0 +1,40 @@
+{
+  "NCI1": {
+    "best_label": "HSP-equiv",
+    "best_mean": 0.824574206272761,
+    "best_std": 0.01719326175132365,
+    "hsp_gkn_paper": 83.6,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.824574206272761,
+        "std": 0.01719326175132365
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.8211678802967072,
+        "std": 0.016912453613000363
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.8186536848545074,
+        "std": 0.016877220875165813
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.8195458153883616,
+        "std": 0.01687741649281265
+      },
+      {
+        "label": "linearK1+struct+attn",
+        "mean": 0.8095701456069946,
+        "std": 0.012410617934460254
+      },
+      {
+        "label": "mlpK1+struct+attn",
+        "mean": 0.8073803702990215,
+        "std": 0.01143667918992202
+      }
+    ]
+  }
+}

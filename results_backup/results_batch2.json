@@ -1,0 +1,73 @@
+{
+  "ENZYMES": {
+    "best_label": "linearK2+struct (hsp-train)",
+    "best_mean": 0.6577778180440267,
+    "best_std": 0.06081747764597007,
+    "hsp_gkn_paper": 70.4,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.6216667075951894,
+        "std": 0.06824294101089654
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.648333372672399,
+        "std": 0.07132131241755585
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.6577778180440267,
+        "std": 0.06081747764597007
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.5750000337759653,
+        "std": 0.05849184866557191
+      },
+      {
+        "label": "linearK2+struct+sq (hsp-train)",
+        "mean": 0.5783333649237951,
+        "std": 0.05949634663720339
+      },
+      {
+        "label": "linearK1+struct+attn",
+        "mean": 0.644444481531779,
+        "std": 0.0670820408387919
+      }
+    ]
+  },
+  "PROTEINS": {
+    "best_label": "linearK2+struct (hsp-train)",
+    "best_mean": 0.7858456909656525,
+    "best_std": 0.03772444719516295,
+    "hsp_gkn_paper": 79.5,
+    "all": [
+      {
+        "label": "HSP-equiv",
+        "mean": 0.7843468705813089,
+        "std": 0.042824138324698516
+      },
+      {
+        "label": "linearK1+struct (hsp-train)",
+        "mean": 0.7846471687157949,
+        "std": 0.04111940464001621
+      },
+      {
+        "label": "linearK2+struct (hsp-train)",
+        "mean": 0.7858456909656525,
+        "std": 0.03772444719516295
+      },
+      {
+        "label": "linearK1+struct+sq (hsp-train)",
+        "mean": 0.6480212529500324,
+        "std": 0.04578491307302528
+      },
+      {
+        "label": "linearK2+struct+sq (hsp-train)",
+        "mean": 0.6390310088793436,
+        "std": 0.04940068585327979
+      }
+    ]
+  }
+}

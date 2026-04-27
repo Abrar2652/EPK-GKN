@@ -1,0 +1,134 @@
+[
+  {
+    "dataset": "MUTAG",
+    "epk_mean": 0.9680312017599741,
+    "orig_mean": 0.9574074188868205,
+    "delta": 0.010623782873153687,
+    "paired_t_stat": 0.9886365232259952,
+    "paired_t_p": 0.3486734488030643,
+    "wilcoxon_stat": 19.0,
+    "wilcoxon_p": 0.431640625,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "NCI1",
+    "epk_mean": 0.824574206272761,
+    "orig_mean": 0.8264395693937938,
+    "delta": -0.0018653631210328037,
+    "paired_t_stat": -0.04954972859249176,
+    "paired_t_p": 0.9615634261813081,
+    "wilcoxon_stat": 27.0,
+    "wilcoxon_p": 1.0,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "PTC_MR",
+    "epk_mean": 0.7352661172548929,
+    "orig_mean": 0.748207288980484,
+    "delta": -0.012941171725591172,
+    "paired_t_stat": -0.5245642526775531,
+    "paired_t_p": 0.6125599064557214,
+    "wilcoxon_stat": 25.0,
+    "wilcoxon_p": 0.845703125,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "DD",
+    "epk_mean": 0.839296942949295,
+    "orig_mean": 0.838154923915863,
+    "delta": 0.001142019033432029,
+    "paired_t_stat": 0.3385083357896613,
+    "paired_t_p": 0.7427434173862569,
+    "wilcoxon_stat": 23.0,
+    "wilcoxon_p": 0.6953125,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "BZR",
+    "epk_mean": 0.9250609715779621,
+    "orig_mean": 0.9332113722960156,
+    "delta": -0.008150400718053508,
+    "paired_t_stat": -0.5002677578102778,
+    "paired_t_p": 0.6288901176833954,
+    "wilcoxon_stat": 23.0,
+    "wilcoxon_p": 0.6953125,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "PROTEINS",
+    "epk_mean": 0.7858456909656525,
+    "orig_mean": 0.7960183680057525,
+    "delta": -0.010172677040100053,
+    "paired_t_stat": -0.40991962086486905,
+    "paired_t_p": 0.6914504008323286,
+    "wilcoxon_stat": 20.0,
+    "wilcoxon_p": 0.4921875,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "ENZYMES",
+    "epk_mean": 0.6577778180440267,
+    "orig_mean": 0.6350000301996868,
+    "delta": 0.022777787844339925,
+    "paired_t_stat": 1.1632724420213854,
+    "paired_t_p": 0.27463223976869144,
+    "wilcoxon_stat": 19.0,
+    "wilcoxon_p": 0.431640625,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "COLLAB",
+    "epk_mean": 0.823266710837682,
+    "orig_mean": 0.8100000341733298,
+    "delta": 0.013266676664352217,
+    "paired_t_stat": 2.7606838872623527,
+    "paired_t_p": 0.022087439868101345,
+    "wilcoxon_stat": 6.0,
+    "wilcoxon_p": 0.02734375,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "IMDB-BINARY",
+    "epk_mean": 0.7753333091735839,
+    "orig_mean": 0.7763333141803741,
+    "delta": -0.0010000050067902055,
+    "paired_t_stat": 0.11221576480603002,
+    "paired_t_p": 0.9131153022968641,
+    "wilcoxon_stat": 16.0,
+    "wilcoxon_p": 0.275390625,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "IMDB-MULTI",
+    "epk_mean": 0.545777795712153,
+    "orig_mean": 0.5535555680592855,
+    "delta": -0.0077777723471325055,
+    "paired_t_stat": -0.5424145621462403,
+    "paired_t_p": 0.6007039495092783,
+    "wilcoxon_stat": 26.0,
+    "wilcoxon_p": 0.921875,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "REDDIT-BINARY",
+    "epk_mean": 0.9436666587988535,
+    "orig_mean": 0.9176666339238485,
+    "delta": 0.026000024875004968,
+    "paired_t_stat": 7.592879627665508,
+    "paired_t_p": 3.351373551967505e-05,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 0.001953125,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  },
+  {
+    "dataset": "REDDIT-MULTI-5K",
+    "epk_mean": 0.4819014251232147,
+    "orig_mean": 0.3217960069576899,
+    "delta": 0.16010541816552482,
+    "paired_t_stat": 19.951836284111373,
+    "paired_t_p": 9.274660722222137e-09,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 0.001953125,
+    "note": "EPK per-fold approximated from N(mean, std); exact values require re-run to persist per-fold arrays."
+  }
+]
